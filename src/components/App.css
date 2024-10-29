@@ -1,4 +1,15 @@
+:root {
+  --grey: #808080;
+  --black: #000;
+  --white: #fafafa;
+  --dark-grey: #2a2a2a;
+  --light-grey: #d3d3d3;
+  --red: #ff0c0b;
+  --green: #008001;
+}
+
 .container {
-    width: 50%;
-    margin: 0 auto;
+  width: 50%;
+  margin: 0 auto;
+  padding: 35px 100px;
 }

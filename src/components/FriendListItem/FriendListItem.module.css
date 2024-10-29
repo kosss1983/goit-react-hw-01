@@ -1,0 +1,23 @@
+.offline {
+  color: var(--red);
+}
+
+.online {
+  color: var(--green);
+}
+
+.wrapper {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 16px;
+}
+
+.name {
+  font-size: 22px;
+}
+
+.image {
+  margin: 0 auto;
+}
